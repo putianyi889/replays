@@ -1,5 +1,5 @@
 # replays
-I am a [minesweeper](https://en.wikipedia.org/wiki/Minesweeper_(video_game)) player with 0.52-9.47-36.29 as my records. This repository contains all my videos and stats on [Minesweeper Arbiter](http://www.minesweeper.info/downloads/Arbiter.html). Many early videos and stats before the year of 2020 are lost. I update this repo approximately once every month.
+I am a [minesweeper](https://en.wikipedia.org/wiki/Minesweeper_(video_game)) player with 0.52-8.80-36.29 as my records. This repository contains my videos and stats on [Minesweeper Arbiter](https://minesweepergame.com/download/arbiter.php) and videos on [Viennasweeper](https://minesweepergame.com/download/viennasweeper.php). Many early videos and stats before the year of 2020 are lost. I update this repo approximately twice every year.
 
 My personal profiles in different communities:
 - [扫雷网](http://saolei.wang/Main/Index.asp)(saolei.wang, Chinese official minesweeper community)：http://saolei.wang/Player/Index.asp?Id=9952
